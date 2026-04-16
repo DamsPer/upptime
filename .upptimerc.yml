@@ -1,26 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: DamsPer # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Maison
+    url: https://maison.famillepercheron.fr
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Mail - Port 143
+    url: mail.famillepercheron.fr
+    port: 143
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
+  - name: Mail - Port 465
+    url: mail.famillepercheron.fr
+    port: 465
+    check: "tcp-ping"
+    ipv6: false
+  - name: Mail - Port 587
+    url: mail.famillepercheron.fr
+    port: 587
+    check: "tcp-ping"
+    ipv6: false
+  - name: Mail - Port 25
+    url: mail.famillepercheron.fr
+    port: 25
+    check: "tcp-ping"
+    ipv6: false
+  - name: Mail - Port 993
+    url: mail.famillepercheron.fr
+    port: 993
+    check: "tcp-ping"
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.famillepercheron.fr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
