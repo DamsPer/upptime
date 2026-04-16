@@ -11,8 +11,6 @@ sites:
     __dangerous__insecure: true
   - name: Maison
     url: https://maison.famillepercheron.fr
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Mail - Port 143
     url: mail.famillepercheron.fr
     port: 143
