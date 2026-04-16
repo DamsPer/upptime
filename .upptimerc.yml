@@ -7,6 +7,7 @@ sites:
     url: https://www.google.com
   - name: Freebox
     url: https://4fslxp38.fbxos.fr:8443/
+    icon: https://maison.famillepercheron.fr/favicon.ico
   - name: Maison
     url: https://maison.famillepercheron.fr
   - name: Test Broken Site
