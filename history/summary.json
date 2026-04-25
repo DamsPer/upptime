@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 76,
-    "timeWeek": 91,
+    "timeDay": 92,
+    "timeWeek": 92,
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 637,
-    "timeDay": 551,
-    "timeWeek": 627,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "time": 628,
+    "timeDay": 531,
+    "timeWeek": 629,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2026-04-16": 3
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 831,
-    "timeWeek": 917,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "time": 937,
+    "timeDay": 812,
+    "timeWeek": 876,
+    "timeMonth": 937,
+    "timeYear": 937,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 89,
+    "time": 105,
+    "timeDay": 85,
     "timeWeek": 100,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 89,
+    "time": 105,
+    "timeDay": 85,
     "timeWeek": 101,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 89,
+    "time": 105,
+    "timeDay": 87,
     "timeWeek": 101,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -115,16 +115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-port-25",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 107,
-    "timeDay": 89,
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 105,
+    "timeDay": 85,
     "timeWeek": 101,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2026-04-16": 42
     }
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 89,
+    "time": 105,
+    "timeDay": 86,
     "timeWeek": 102,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   }
 ]
